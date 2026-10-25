@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://raw.githubusercontent.com/royeetirosh-boop/Ravofun--releases-/main/tradingbot/TradingBot-Android-v1.1.apk",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://raw.githubusercontent.com/royeetirosh-boop/Ravofun--releases-/main/tradingbot/TradingBot-Android-v1.2.apk",
   "notes": {
-    "en": "Version 1.1. Settings store the server URL and API token on the device, with a connection test. Bracket stops are GTC and can work outside regular hours, so they stay on IBKR servers if the VPS stops. Paper trading remains the default. Live trading needs TRADINGBOT_ALLOW_LIVE=1 on the server.",
-    "he": "גרסה 1.1. בהגדרות שומרים כתובת שרת וטוקן API על המכשיר, עם בדיקת חיבור. פקודות ההגנה נשלחות כ-GTC וגם מחוץ לשעות המסחר, ונשארות בשרתי IBKR גם אם השרת כבה. ברירת המחדל נשארת מסחר בנייר. מסחר אמיתי דורש TRADINGBOT_ALLOW_LIVE=1 בשרת."
+    "en": "Version 1.2. Fixes the in-app update button: clearer progress and errors inside the dialog, install-permission guidance, and a manual browser download fallback. Still paper by default. Live needs TRADINGBOT_ALLOW_LIVE=1 on the server.",
+    "he": "גרסה 1.2. מתקנת את כפתור העדכון באפליקציה: התקדמות ושגיאות מוצגות בחלון, הדרכה לאישור התקנה ממקור לא ידוע, ואפשרות להורדה ידנית בדפדפן. ברירת המחדל נשארת מסחר בנייר. מסחר אמיתי דורש TRADINGBOT_ALLOW_LIVE=1 בשרת."
   }
 }
