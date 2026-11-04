@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/royeetirosh-boop/Ravofun--releases-/main/tradingbot/TradingBot-Android-v1.2.apk",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/royeetirosh-boop/Ravofun--releases-/main/tradingbot/TradingBot-Android-v1.3.apk",
   "notes": {
-    "en": "Version 1.2. Fixes the in-app update button: clearer progress and errors inside the dialog, install-permission guidance, and a manual browser download fallback. Still paper by default. Live needs TRADINGBOT_ALLOW_LIVE=1 on the server.",
-    "he": "גרסה 1.2. מתקנת את כפתור העדכון באפליקציה: התקדמות ושגיאות מוצגות בחלון, הדרכה לאישור התקנה ממקור לא ידוע, ואפשרות להורדה ידנית בדפדפן. ברירת המחדל נשארת מסחר בנייר. מסחר אמיתי דורש TRADINGBOT_ALLOW_LIVE=1 בשרת."
+    "en": "Version 1.3. Default strategy is SPY Trend (SPY above SMA100, otherwise BIL). Optional Sniper v2 sleeve. Legacy Sniper remains available but is not recommended. Daily and monthly loss kill switches. Historical OOS stats are shown as simulation only.",
+    "he": "גרסה 1.3. אסטרטגיית ברירת המחדל היא מגמת SPY (SPY מעל SMA100, אחרת BIL). שרוול אופציונלי של סנייפר v2. סנייפר הישן נשאר זמין אבל לא מומלץ. עצירות יומיות וחודשיות להפסד. נתוני העבר מוצגים כסימולציה בלבד."
   }
 }
