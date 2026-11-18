@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apkUrl": "https://raw.githubusercontent.com/royeetirosh-boop/Ravofun--releases-/main/bitlab/BitLab-v1.0.apk",
+  "notes": {
+    "en": "First sideload build. Later updates install over this app.",
+    "he": "גרסת התקנה ראשונה. עדכונים הבאים מותקנים מעל האפליקציה הזו."
+  }
+}
